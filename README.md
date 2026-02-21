@@ -4,4 +4,5 @@ Object detection using AI blend blind stick to improve experience of blind perso
 This stick is in-builded smart object prediction , buzer is rooted to notify by sound.
 Stick can provide walking with talking mode.
 Help to navigate easily.
-Audio tunes add advantage to blind usera
+Audio tunes add advantages to blind users.
+Enviroment can understood by blind users very easily.
