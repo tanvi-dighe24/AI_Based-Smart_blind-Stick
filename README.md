@@ -1,6 +1,6 @@
-# AI_Based-Smart_blind-Stick Project:--
+# AI_Based-Smart_blind-Stick Project:-
 
-WHAT WE PROVIDED:
+#WHAT WE'VE PROVIDED:
 
 -Object detection using AI blend blind stick to improve experience of blind person while doing day-to-day routine.
 -This stick is in-builded smart object prediction , buzer is rooted to notify by sound.
